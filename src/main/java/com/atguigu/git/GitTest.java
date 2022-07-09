@@ -17,6 +17,7 @@ public class GitTest {
         System.out.println("1111111111======hot-fix-test!======111111111");
         System.out.println("github-push");
         System.out.println("pull-commit");
+        System.out.println("gitte-test!");
     }
 
 }
