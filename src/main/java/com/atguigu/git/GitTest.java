@@ -19,6 +19,7 @@ public class GitTest {
         System.out.println("pull-commit");
         System.out.println("gitte-test!");
         System.out.println("gitte-test2!");
+        System.out.println("gitte-test3!");
     }
 
 }
